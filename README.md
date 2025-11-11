@@ -197,9 +197,10 @@ npm run build
 
 如有问题或建议，请通过以下方式联系我们：
 
-- 邮箱：support@aiplatform.com
-- 项目地址：[GitHub Repository]
-
+- 邮箱：support@cqkj.net.cn
+- QQ:215871297
+  
 ---
 
-**AI智能平台** © 2024 - 让AI对话更智能、更便捷！
+
+**株洲创擎网络科技有限责任公司** © 2024-2025 - 让AI对话更智能、更便捷！
